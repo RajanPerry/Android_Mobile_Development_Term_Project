@@ -14,7 +14,7 @@
 
 ## Game Setup
 
-1. Download the APK file from the repository.
+1. Download the APK file from [this link](https://third-from-the-left.itch.io/slime-runner).
 
 2. Open Android Studio. Go to `File` > `Profile or Debug APK`, and navigate to the location of the APK. Click on the `OK` button, and open the project in a new window.
 
