@@ -1,8 +1,13 @@
-# CS175_Term_Project
+# Slime Run
+
+By Rozanna Abramtsis, Rajan Perry, and Brianna Rentfrow
+CS175 Term Project - Fall 2021
+San Jose State University
 
 ## Navigation
  - [Android Studio Setup](##android-studio-setup)
  - [Game Setup](##game-setup)
+ - [Game Play](##game-play)
  <!-- - [x] test        - THIS ADDS A CHECK-MARKED CHECK BOX -->
  - *No fixed header-linking in README file, please use `Ctrl + F` to search.*
 
@@ -24,3 +29,23 @@ NOTE: If an SDK error occurs, click on the error to see more information.
 ![SDK-not-found-error-fix.png](images/SDK-not-found-error-fix.png)
 
 3. Go to `Run`, `Run 'app'`, and the emulator with the game application will appear.
+
+## Game Play
+
+1. The game starts at the main menu screen.
+
+![main-menu.png](images/main-menu.png)
+
+2. Tappng the `How to Play` button sends users to the instructions screen to see how to play the game.
+
+![instructions-menu.png](images/instructions-menu.png)
+
+3. Tapping the `Back` button sends users back to the main menu.
+
+4. Tapping the `Start` button switches to the game screen, where users can play the game.
+
+![start-game.png](images/start-game.png)
+
+5. Losing the game displays buttons to start playing again or going back to the main menu.
+
+![lose-screen.png](images/lose-screen.png)
