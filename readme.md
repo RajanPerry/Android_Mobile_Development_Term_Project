@@ -46,6 +46,8 @@ NOTE: If an SDK error occurs, click on the error to see more information.
 
 ![start-game.png](images/start-game.png)
 
+Users can tap the screen to have the green Slime jump and avoid red Slimes.
+
 5. Losing the game displays buttons to start playing again or going back to the main menu.
 
 ![lose-screen.png](images/lose-screen.png)
