@@ -36,7 +36,7 @@ NOTE: If an SDK error occurs, click on the error to see more information.
 
 ![main-menu.png](images/main-menu.png)
 
-2. Tappng the `How to Play` button sends users to the instructions screen to see how to play the game.
+2. Tapping the `How to Play` button sends users to the instructions screen to see how to play the game.
 
 ![instructions-menu.png](images/instructions-menu.png)
 
