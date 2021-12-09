@@ -4,6 +4,8 @@ By Rozanna Abramtsis, Rajan Perry, and Brianna Rentfrow
 CS175 Term Project - Fall 2021
 San Jose State University
 
+[Link to Backlog](Team-6-Endless-Runner-App-backlog.xlsx)
+
 ## Navigation
  - [Android Studio Setup](##android-studio-setup)
  - [Game Setup](##game-setup)
