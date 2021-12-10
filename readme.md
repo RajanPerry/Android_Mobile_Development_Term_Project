@@ -34,7 +34,7 @@ NOTE: If an SDK error occurs, click on the error to see more information.
 
 ## Game Play
 
-[Demo Video link](demo-video.mp4) (download the file to watch it)
+[Demo Video file](demo-video.mp4) (download the file to watch it)
 
 1. The game starts at the main menu screen.
 
