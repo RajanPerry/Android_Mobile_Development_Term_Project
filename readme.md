@@ -1,7 +1,7 @@
 # Slime Run
 
 By Rozanna Abramtsis, Rajan Perry, and Brianna Rentfrow
-Android Mobile Development Term Project
+- Android Mobile Development Term Project
 
 [Link to Backlog](Team-6-Endless-Runner-App-backlog.xlsx)
 
