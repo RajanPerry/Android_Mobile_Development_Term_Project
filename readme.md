@@ -1,8 +1,7 @@
 # Slime Run
 
 By Rozanna Abramtsis, Rajan Perry, and Brianna Rentfrow
-CS175 Term Project - Fall 2021
-San Jose State University
+Android Mobile Development Term Project
 
 [Link to Backlog](Team-6-Endless-Runner-App-backlog.xlsx)
 
